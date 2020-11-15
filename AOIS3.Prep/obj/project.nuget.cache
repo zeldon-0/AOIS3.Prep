@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hX29EYASRBebyqcVH+ji+cwbb+BaTiaQO84FPVevFRQ0ON8P89JJnruocflww1QSR8OThPaPR3AAuSju0k6LAg==",
+  "success": true,
+  "projectFilePath": "E:\\AOIS\\AOIS3.Prep\\AOIS3.Prep\\AOIS3.Prep.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vadym\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Vadym\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Vadym\\.nuget\\packages\\starmath\\2.0.20.204\\starmath.2.0.20.204.nupkg.sha512",
+    "C:\\Users\\Vadym\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
